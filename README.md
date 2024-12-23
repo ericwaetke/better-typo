@@ -64,7 +64,7 @@ return [
 
 “Better Typo” is developed by [Simon Lou](https://simonlou.com) ([@simonlou@typo.social](https://typo.social/@simonlou)).
 
-Thanks to [Frank Rausch](https://frankrausch.com) ([@frankrausch@mastodon.social](https://mastodon.social/@frankrausch) for the inspiration, he did a similar project for swift a few years back.
+Thanks to [Frank Rausch](https://frankrausch.com) ([@frankrausch@mastodon.social](https://mastodon.social/@frankrausch) for the inspiration, he did a similar project for swift a few years back.)
 
 ## License
 
